@@ -44,28 +44,28 @@ body {
 h1 {
 	color:#EEEEEE;
 	padding-top:28vh;
-	line-height:10rem;
+	line-height:18vh;
 	margin:0;
-	font-size:11rem;
+	font-size:18vh;
 }
 
 h2 {
 	color:#222222;
-	font-size:4rem;
+	font-size:8vh;
 	padding:0;
 	margin:0;
 }
 
 h3 {
 	color:#FF6597;
-	font-size:2.5rem;
+	font-size:4vh;
 	padding:0;
 	margin:2hv;
 }
 
 h4 {
 	color:#DDDDDD;
-	font-size:1.8rem;
+	font-size:3vh;
 	padding:0;
 	margin:1vh;
 }
