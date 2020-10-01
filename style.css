@@ -11,17 +11,13 @@ body {
 
 .section {
 	width:80%;
-	height:90vh;
 	text-align:center;
 	padding:5vh 10%;
 }
 
-.subsection {
-	margin:auto;
-}
-
 #heading {
 	background-color:#505050;
+	height:90vh;
 }
 
 #education {
@@ -43,29 +39,29 @@ body {
 
 h1 {
 	color:#EEEEEE;
-	padding-top:28vh;
-	line-height:18vh;
+	padding-top:30vh;
+	line-height:10vw;
 	margin:0;
-	font-size:18vh;
+	font-size:10vw;
 }
 
 h2 {
 	color:#222222;
-	font-size:8vh;
+	font-size:5rem;
 	padding:0;
 	margin:0;
 }
 
 h3 {
 	color:#FF6597;
-	font-size:4vh;
-	padding:0;
-	margin:2hv;
+	font-size:2.5rem;
+	padding:1rem;
+	margin:0;
 }
 
 h4 {
 	color:#DDDDDD;
-	font-size:3vh;
+	font-size:1.5rem;
 	padding:0;
-	margin:1vh;
+	margin:.5rem;
 }
