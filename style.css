@@ -24,16 +24,20 @@ p {
 	text-decoration:none;
 }
 
-#email {
+#youtube {
 	color:#E40303;
 }
 
-#website {
+#email {
 	color:#FF8C00;
 }
 
-#twitter {
+#website {
 	color:#FFED00;
+}
+
+#twitter {
+	color:#004DFF;
 }
 
 #insta {
@@ -41,11 +45,11 @@ p {
 }
 
 #info {
-	color:#004DFF;
+	color:#750787;
 }
 
 h1 {
-	color:#EEEEEE;
+	color:#121212;
 	padding-top:25vh;
 	margin:0;
 	font-size:8vw;
