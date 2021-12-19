@@ -24,6 +24,12 @@ p {
 	text-decoration:none;
 }
 
+.bio {
+	text-align:center;
+	font-size:2rem;
+	padding:5vh;
+}
+
 #youtube {
 	color:#E40303;
 }
